@@ -11,5 +11,5 @@ You get all subject Lab programs as per 2022 scheme here ! //Hassassin//
 
 ## Feedback
 
-If you have any feedback, please reach out to us at hassassinsp10@gmail.com
+If you have any feedback, please reach out to me at hassassinsp10@gmail.com
 
