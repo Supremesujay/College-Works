@@ -6,7 +6,7 @@ You get all subject Lab programs as per 2022 scheme here ! //Hassassin//
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Hassassin-10/College-Works/blob/main/LICENSE)
 
 
 ## Feedback
