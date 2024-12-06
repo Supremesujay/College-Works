@@ -1,4 +1,4 @@
-#Write a Python program to find the string similarity between two given strings.
+# Write a Python program to find the string similarity between two given strings.
 
 str1 = input("Enter String 1 \n").lower()
 str2 = input("Enter String 2 \n").lower()
