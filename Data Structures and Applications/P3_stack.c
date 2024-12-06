@@ -1,4 +1,4 @@
-/*3. Develop a menu driven Program in C for the following operations on STACK of Integers
+/* 3. Develop a menu driven Program in C for the following operations on STACK of Integers
 (Array Implementation of Stack with maximum size MAX)
 a. Push an Element on to Stack
 b. Pop an Element from Stack
