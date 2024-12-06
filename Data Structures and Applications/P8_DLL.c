@@ -1,4 +1,4 @@
-/*8. Develop a menu driven Program in C for the following operations on Doubly Linked List 
+/* 8. Develop a menu driven Program in C for the following operations on Doubly Linked List 
 (DLL) of Employee Data with the fields: SSN, Name, Dept, Designation,Sal, PhNo  
 a) Create a DLL of N Employees Data by using end insertion.  
 b) Display the status of DLL and count the number of nodes in it  
