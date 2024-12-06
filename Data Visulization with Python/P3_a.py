@@ -1,5 +1,5 @@
-#Write a Python program that accepts a sentence and find the number of words, 
-#digits, uppercase letters and lowercase letters.
+# Write a Python program that accepts a sentence and find the number of words, 
+# digits, uppercase letters and lowercase letters.
 
 import string
 sentence = input("Enter a sentence : ")
