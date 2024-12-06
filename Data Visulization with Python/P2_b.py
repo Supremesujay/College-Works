@@ -1,4 +1,4 @@
-#Develop a python program to convert binary to decimal, octal to hexadecimal using functions.
+# Develop a python program to convert binary to decimal, octal to hexadecimal using functions.
 
 def bin2Dec(val):
     return int(val, 2)
