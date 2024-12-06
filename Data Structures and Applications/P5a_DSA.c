@@ -1,4 +1,4 @@
-/*Evaluation of postfix expression*/
+/* Evaluation of postfix expression*/
 
 #include <stdio.h>
 #include <stdlib.h>
