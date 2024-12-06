@@ -1,4 +1,4 @@
-/*7. Develop a menu driven Program in C for the following operations on Singly Linked
+/* 7. Develop a menu driven Program in C for the following operations on Singly Linked
 List (SLL) of Student Data with the fields: USN, Name, Programme, Sem, PhNo
 a. Create a SLL of N Students Data by using front insertion.
 b. Display the status of SLL and count the number of nodes in it
