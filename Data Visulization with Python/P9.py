@@ -1,4 +1,4 @@
-#3D Plots using Plotly Libraries
+# 3D Plots using Plotly Libraries
 
 import plotly.graph_objects as go
 import numpy as np
