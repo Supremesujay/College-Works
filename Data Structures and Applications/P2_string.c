@@ -1,4 +1,4 @@
-/*2. Develop a Program in C for the following operations on Strings.
+/* 2. Develop a Program in C for the following operations on Strings.
 a. Read a main String (STR), a Pattern String (PAT) and a Replace String (REP)
 b. Perform Pattern Matching Operation: Find and Replace all occurrences of PAT in
 STR with REP if PAT exists in STR. Report suitable messages in case PAT does not
