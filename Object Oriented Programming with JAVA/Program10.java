@@ -3,7 +3,7 @@
 class AA {
     void show() 
     {
-        System.out.println("Hello RIT");
+        System.out.println("Hello");
     }
 }
 public class Program10 
