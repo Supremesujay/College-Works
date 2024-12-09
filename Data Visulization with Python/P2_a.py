@@ -3,17 +3,15 @@
 # Display suitable error message if the condition for input value is not followed.
 
 def fn(n):
-    if n == 1:
-        return 0
-    elif n == 2:
-        return 1
+    if n <= 2:
+        return n - 1
     else:
-        return fn(n - 1) + fn(n - 2)
+        return fn(n-1) + fn(n-2)
 try:
     num = int(input("Enter a number : "))
     if num > 0:
-        print("fn(", num, ") = ", fn(num), sep="")
+        print(f' fn({num}) = {fn(num)}')
     else:
         print("Input should be greater than 0")
 except ValueError:
-        print("Try with numeric value")
+    print("Try with numeric value")
